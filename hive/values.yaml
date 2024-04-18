@@ -64,7 +64,7 @@ SECRETS:
   HIVE_ENCRYPTION_SECRET: "hive_encryption_secret"
   SUPERTOKENS_API_KEY: "supertokens_api_key"
   CLICKHOUSE_USER: "clickhouse_user"
-  CLICKHOUSE_PASSWORD: clickhouse_password"
+  CLICKHOUSE_PASSWORD: "clickhouse_password"
   REDIS_PASSWORD: "redis_password"
   POSTGRES_PASSWORD: "postgres_password"
   MINIO_ROOT_USER: "minio_root_user"
